@@ -20,7 +20,7 @@ const messages=[
 "Don't say No 😭",
 "Think again ❤️",
 "Pleaseeeee 😭💔",
-"I'll cry... 😢"
+"I'll cry... 😢" 
 ];
 
 no.addEventListener("mouseover",()=>{
