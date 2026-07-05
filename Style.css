@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background:#ffdbe7;
+    font-family:Arial;
+    overflow:hidden;
+}
+
+.card{
+    text-align:center;
+}
+
+button{
+    padding:12px 28px;
+    margin:10px;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+    font-size:18px;
+}
+
+#yes{
+    background:#4CAF50;
+    color:white;
+}
+
+#no{
+    background:#ff4d4d;
+    color:white;
+    position:absolute;
+}
